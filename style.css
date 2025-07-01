@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500,800&display=swap');
+
 *{
     margin:0;
     padding:0;
@@ -19,7 +21,7 @@ body{
     position:absolute;
     width:100%;
     height:100%;
-    background-image:url();
+    background-image:url("https://media.posterstore.com/site_images/6859980c227f10efd5fe4bc4_1995131595_11636-8.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     filter:brightness(70%);
